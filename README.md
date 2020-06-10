@@ -9,7 +9,6 @@ SWC lesson on Git and GitHub
 ### About Author
 I am the research data specialist for the Univeristy Libraries at the University of Oklahoma. 
 
-THis is a new paragraph. 
-
+I am also the Head of DAVIS (Data Analysis, Visualization, Informatics Syndicate. 
 
 
